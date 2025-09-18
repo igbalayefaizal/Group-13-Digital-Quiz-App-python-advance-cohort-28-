@@ -6,6 +6,7 @@
 A simple digital quiz application built with **Python**.  
 The app supports multiple-choice and true/false questions, with automatic scoring and test coverage using **pytest**.  
 
+Our project aims to develop a Digital Quiz App that allows users to author, run, and analyze quizzes with multiple question types. Using object-oriented programming, we will create a base Question class with subclasses for different types, each implementing an is_correct () method for scoring. The app will provide a user-friendly GUI for quiz creation, timed quiz execution with a progress bar, and per-question feedback. Quizzes can be imported and exported as JSON, with validation to ensure correctness. Stretch goals include randomizing question order and tracking per-student histories. By the end, users will be able to create quizzes, take them, and view accurate results, demonstrating strong quiz logic, usability, and proper exception handling.
 ---
 
 ##  Features  
